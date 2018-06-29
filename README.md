@@ -1,2 +1,3 @@
 # STEM-2018
-2018 STEM Camp
+
+Code and data files for BOP analysis STEM CAMP 2018
