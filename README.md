@@ -53,6 +53,8 @@ Data Science with Python Slides http://bit.ly/pacestem18slides
 
 ## Presentations of the students
 
+Guidelines https://github.com/fparisi/STEM-2018/blob/master/presentations.txt
+
 ## Pictures
 
 ## Other activities
