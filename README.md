@@ -10,6 +10,10 @@ Billion Oyster Project https://billionoysterproject.org/
 
 BOP platform https://platform.bop.nyc
 
+Data how-to guide https://github.com/BillionOysterProject/docs/wiki/Data-How-To-Guide
+
+Oysters introduction https://docs.google.com/document/d/1KcMdqPa2FRDtT6ODuOSRmrYSaS1sgJ4Nvhc8Xo4AK0Y/edit
+
 ## Code
 
 https://github.com/fparisi/STEM-2018
