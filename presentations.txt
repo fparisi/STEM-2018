@@ -1,0 +1,30 @@
+# Information about the presentations
+
+# Content
+ 
+•	Team name and members 
+•	Research question
+•	Methodology / Hypothesis / Process
+•	Description of the data (#rows, location, scope etc.)
+•	Python libraries and use. Show algorithms and/or some code (high level)!
+•	Charts 
+•	Answer to the research question
+•	Validity of the answer
+•	What was your experience in the program?
+•	References
+
+# Presentation
+
+•	We will collect all the presentations in Google Drive
+•	You should rehearse
+•	Use as little text as possible
+•	End with thanking your audience and pause
+•	Share your ideas in a positive way
+o	Instead of saying "We did not have the time to..." you can say "Our plan for the next phase is..."
+•	Presentation must be visual 
+•	No longer than 5 minutes per team
+•	Dress appropriately
+More about presenting
+•	Garr Reynolds
+•	Lawrence Lessig
+
