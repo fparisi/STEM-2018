@@ -4,6 +4,8 @@
 
 Billion Oyster Project https://billionoysterproject.org/
 
+https://www.moorecharitable.org/wp-content/uploads/2015/05/11210456_831905256863896_2619126492785872582_n-300x225.jpg
+
 ## Data
 
 BOP platform https://platform.bop.nyc
