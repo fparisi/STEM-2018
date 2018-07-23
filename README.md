@@ -51,7 +51,7 @@ Data Science with Python Slides http://bit.ly/pacestem18slides
 * Definition of done
 * Brainstorming 101
 
-## Presentations of the students
+## Students' Presentations
 
 Guidelines https://github.com/fparisi/STEM-2018/blob/master/presentations.txt
 
